@@ -11,6 +11,9 @@ color:
     - '#546F7B'
     - '#8AA6AA'
 layout_spectrum: 0.28579845163039863
+author:
+  name: Brian Wickliff
+  email: brian@hicksmokey.com
 name: Hicksmokey
-title: Hicksmokey
+title: That guy...
 description: He does weird shite...
